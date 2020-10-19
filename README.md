@@ -1,2 +1,2 @@
-# kfp-plugin-form
-Plugin para implementar un formulario mediante un shortcode
+# adl-plugin-form-wdp
+Plugin para implementar un formulario basico mediante un shortcode en wordpress
